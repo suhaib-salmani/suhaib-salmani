@@ -1,7 +1,7 @@
 
 <img src="image.gif" align="center"> 
 <h1 align="center">Hi 👋there, I'm Suhaib</h1>
-<p align="center">An Under Graduate Student@nitsri</p>
+<p align="center">2nd year UnderGraduate Student@nitsri</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
 <h2>About me</h2>
