@@ -1,5 +1,5 @@
 
-<!-- ![MasterHead](https://github.com/SF404/SF404/blob/main/Ivory%20and%20Black%20Minimalist%20Design%20Studio%20LinkedIn%20Article%20Cover%20Image.gif) -->
+<img src="image.gif" align="center"> 
 <h1 align="center">Hi 👋there, I'm Suhaib</h1>
 <p align="center">An Under Graduate Student@nitsri</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
