@@ -1,36 +1,40 @@
+<img align="centre" style="display: block; margin: 0 auto" width="300" height="200" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"><br/>
 
-<img src="image.gif" align="center"> 
-<h1 align="center">Hi 👋there, I'm Suhaib</h1>
-<p align="center">2nd year UnderGraduate Student@nitsri</p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
-
-<h2>About me</h2>
-
-- 🌱 I’m currently learning **Web development and DSA**
-
-- 🍁 I am passionate about technology, innovation and big challenging tasks on my to do list.
-
-- 📫 How to reach me **suhaibsworkspace@gmail.com**
-
-
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
-<br/>
-<h2>Analytics</h2>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sf404&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="sf404" /></p>
-
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sf404&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="sf404" /></p>
-
-<br/>
-
-<a href="https://github.com/HN026/github-readme-activity-graph"><img alt="Suhaib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SF404&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sf404&label=Profile%20views" alt="sf404" /> </p>
-<h3 align="left" color="blue">Connect with me:</h3>
+# 💫 About Me:
 <p align="left">
-<a href="https://twitter.com/suhaib_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhaib_404" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suhaib-salmani-2437b8240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaib-salmani-2437b8240" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20423872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20423872" height="30" width="40" /></a>
-<a href="https://instagram.com/suhaib_404_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhaib_404_" height="30" width="40" /></a>
+<img align="right" width="120" src="https://res.cloudinary.com/practicaldev/image/fetch/s--PnpWilxx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/BhuvaneshHingal/HELLO-WORLD/master/resources/Hello%2520World%21.gif">
+🌱 I’m currently learning ReactJs<br/>
+🍁 I am passionate about technology, innovation and big challenging tasks on my to do list.<br/>
+📫 How to reach me suhaibsworkspace@gmail.com
 </p>
+
+
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhaib_404_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhaib-ahmad-2437b8240/) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sf404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sf404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sf404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sf404&icon=5&color=6)](https://visitcount.itsvg.in)
